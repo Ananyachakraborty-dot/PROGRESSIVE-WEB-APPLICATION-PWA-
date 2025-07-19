@@ -29,6 +29,7 @@ This repository contains a Progressive Web Application (PWA) that delivers a fas
 
   # OUTPUT:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ba8496c6-6a69-4108-a6ae-71ef202e87f5" />
   
 
 
